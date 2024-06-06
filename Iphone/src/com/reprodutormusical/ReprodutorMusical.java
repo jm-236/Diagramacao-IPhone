@@ -1,5 +1,7 @@
 package com.reprodutormusical;
 
+import java.util.Set;
+
 public interface ReprodutorMusical {
 
     String musicaAtual = "";
